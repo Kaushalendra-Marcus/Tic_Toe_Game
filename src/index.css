@@ -1,0 +1,13 @@
+@import "tailwindcss";
+body{
+    background: #0f1B21;
+    margin: 0;
+}
+.image{
+    height: 70px;
+    width: 68px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
